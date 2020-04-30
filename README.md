@@ -1,1 +1,1 @@
-# G-Followme_vuno 
+# G-Followme_vuno 프로젝트
